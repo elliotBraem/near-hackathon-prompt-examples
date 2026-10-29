@@ -5,9 +5,10 @@ Copy-paste prompts for every build track in the [NEAR Hackathon](https://nearhac
 ## How to use these
 
 1. Paste [`00-setup.md`](00-setup.md) into your coding agent once. It has the agent read HACKATHON.md and install NEAR's agent skills.
-2. Open your track's file, paste the prompt, and edit the parts in `[brackets]` to fit your idea.
-3. Swap the starter idea for your own if you have a better one. Keep the requirements and the checkpoint.
-4. Before you submit, go through [`SUBMITTING.md`](SUBMITTING.md).
+2. If your track mentions the Agent API, also paste [`agent-api.md`](agent-api.md).
+3. Open your track's file, paste the prompt, and edit the parts in `[brackets]` to fit your idea.
+4. Swap the starter idea for your own if you have a better one. Keep the requirements and the checkpoint.
+5. Before you submit, go through [`SUBMITTING.md`](SUBMITTING.md).
 
 ## Tracks
 

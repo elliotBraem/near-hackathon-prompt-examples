@@ -11,6 +11,7 @@ Explore confidential computation, private finance and AI that protects sensitive
 - [NEAR AI Cloud quickstart](https://docs.near.ai/cloud/quickstart)
 - [NEAR AI Cloud verification docs](https://docs.near.ai/cloud/verification)
 - [Verification example repo](https://github.com/near-examples/nearai-cloud-verification-example)
+- [Agent API overview](https://docs-production-7968.up.railway.app/integration/agent-api/overview)
 
 ## Prompt
 

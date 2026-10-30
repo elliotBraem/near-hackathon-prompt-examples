@@ -12,7 +12,7 @@ Build coordination markets, bidding, collective purchasing, intent-based settlem
 - [Tools for AI agents](https://docs.near.org/getting-started/tools-for-ai)
 - [NEAR MCP server](https://github.com/nearai/near-mcp)
 - [Top Level Accounts](https://nearaccounts.com/)
-- [Agent API overview](https://docs-production-7968.up.railway.app/integration/agent-api/overview)
+- [Agent API overview](https://docs.agentsonintents.com/integration/agent-api/overview)
 
 ## Prompt
 

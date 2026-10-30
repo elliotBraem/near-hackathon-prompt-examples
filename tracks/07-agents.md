@@ -16,7 +16,7 @@ Build agents that earn, spend, negotiate, hire other agents and pay for APIs, co
 
 ## Note
 
-The Agent API gives each agent a policy-bound wallet, useful when you'd otherwise explain how the agent holds its keys. The PingPay Agent Pay facilitator lets agents pay HTTP 402 (x402) paywalls in USDC on Base and settles to a NEAR recipient through NEAR Intents.
+The Agent API gives each agent a policy-bound wallet, useful when you'd otherwise explain how the agent holds its keys — create its demo key in the [partner dashboard](https://partners.demo.agentsonintents.com/dashboard), but note the keys are temporary and rotate after the demo period. The PingPay Agent Pay facilitator lets agents pay HTTP 402 (x402) paywalls in USDC on Base and settles to a NEAR recipient through NEAR Intents.
 
 ## Prompt
 

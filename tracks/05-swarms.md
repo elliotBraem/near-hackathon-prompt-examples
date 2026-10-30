@@ -14,10 +14,6 @@ Build coordination markets, bidding, collective purchasing, intent-based settlem
 - [Top Level Accounts](https://nearaccounts.com/)
 - [Agent API overview](https://docs-production-7968.up.railway.app/integration/agent-api/overview)
 
-## Note
-
-Top Level Accounts (nearaccounts.com) rent readable names like `buyer-1.degen` — real keyless NEAR accounts controlled from one ownership account. On mainnet they read better than `.testnet` sub-accounts; for testnet demos, stick with sub-accounts.
-
 ## Prompt
 
 ```text
